@@ -1,1 +1,1 @@
-web: gunicorn run:app >> Procfile
+web: python manage.py runserver 0.0.0.0
