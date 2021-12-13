@@ -1,5 +1,4 @@
 ﻿Flask==2.0.2
-fsspec @ file:///tmp/build/80754af9/fsspec_1617959894824/work
 gunicorn==20.1.0
 h5py==2.10.0
 HeapDict==1.0.1
